@@ -19,6 +19,7 @@ body {
     text-align: center;
     align-content: center;
     justify-items: center;
+    height: 100%;
     width: 100%;
     max-width: 980px;
     min-width: 320px;
@@ -59,4 +60,12 @@ hr {
     width: 100%;
     border: 1px solid white;
     margin: 16px 0;
+}
+
+
+@media screen and (max-width: 576px) {
+    input{
+        width:100%;
+        border:2px solid red
+    }
 }
