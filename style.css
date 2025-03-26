@@ -21,7 +21,8 @@ body {
     justify-items: center;
     width: 100%;
     max-width: 980px;
-    min-width: 370px;
+    min-width: 320px;
+    padding: 8px;
     margin: auto;
     background-color: rgba(12, 165, 12, 0.329);
 }
@@ -33,7 +34,7 @@ label, input, #result {
 
 input, button {
     font-size: 20px;
-    min-width:320;
+    min-width: 320px;
     max-width: 360px;
     height: 44px;
     border: 2px solid green;
