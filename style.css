@@ -34,7 +34,7 @@ label, input, #result {
 
 input, button {
     font-size: 20px;
-    min-width: 320px;
+    min-width: 300px;
     max-width: 360px;
     height: 44px;
     border: 2px solid green;
